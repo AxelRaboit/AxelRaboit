@@ -12,3 +12,6 @@ My Website : https://axel-raboit.fr
 
 🌱 I’m currently learning ...
   - React JS
+
+👯 You can contact me on ...
+  - axel.raboit@gmail.com
