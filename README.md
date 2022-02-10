@@ -17,6 +17,7 @@ My Website : https://axel-raboit.fr
 
 🌱 I’m currently learning ...
   - React JS
+  - Redux
   - Docker
   - API Platform
 
