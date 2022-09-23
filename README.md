@@ -6,10 +6,6 @@ This repository is used to train myself about coding.
 
 I have another repository in Gitlab: https://gitlab.com/axel.raboit
 
-My Website : https://axel-raboit.fr
-
-
-
 🔭 I’m currently working with ...
 ------------------------------
 
