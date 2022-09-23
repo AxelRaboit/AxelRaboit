@@ -14,21 +14,23 @@ My Website : https://axel-raboit.fr
 ------------------------------
 
 - PHP / Symfony 5
-- TWIG 
-- Doctrine / MySql 
+- TWIG
+- Doctrine / MySql
 - SQL / DQL
 - JavaScript
-- jQuery 
+- jQuery
 - Git
 - Sass
 - Webpack Encore
-- Bootstrap 
+- Bootstrap
 
 🌱 I’m currently learning ...
 --------------------------
 
 - React JS
+- Typescript
 - Redux
+- EasyPeasy
 - Firebase
 - Docker
 - API Platform
