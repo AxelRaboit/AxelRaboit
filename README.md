@@ -25,6 +25,7 @@ I have another repository in Gitlab: https://gitlab.com/axel.raboit
 
 - React JS
 - Typescript
+- Strapi
 - Redux
 - EasyPeasy
 - Firebase
