@@ -9,7 +9,8 @@ I have another repository in Gitlab: https://gitlab.com/axel.raboit
 🔭 I’m currently working with ...
 ------------------------------
 
-- PHP / Symfony 5
+- PHP
+- Symfony 5
 - TWIG
 - Doctrine / MySql
 - SQL / DQL
