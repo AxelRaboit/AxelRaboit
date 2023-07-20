@@ -20,19 +20,19 @@ I have another repository in Gitlab: https://gitlab.com/axel.raboit
 - Sass
 - Webpack Encore
 - Bootstrap
+- Docker
+- CI / CD
+- Redux
+- React JS
 
 🌱 I’m currently learning ...
 --------------------------
 
-- React JS
 - Typescript
 - Strapi
-- Redux
 - EasyPeasy
 - Firebase
-- Docker
 - API Platform
-- CI / CD
 - PHP Unit
 
 👯 You can contact me on ...
