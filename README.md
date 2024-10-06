@@ -13,37 +13,34 @@ I have another repository in Gitlab: https://gitlab.com/axel.raboit
 ------------------------------
 
 - PHP 7.4 / PHP 8.x
-- Symfony 5 / Symfony 6
+- Symfony 5 / Symfony 6 / Symfony 7
 - TWIG
+- Alpine JS
 - Doctrine / MySql / PostegreSQL
-- SQL / DQL
+- SQL / DQL / DBAL
 - JavaScript
 - jQuery
 - Git
 - Sass
 - Webpack Encore
+- AssetMapper
 - Bootstrap
+- Tailwind CSS
+- ESLint, Rector, PHPStan, PHPUnit
+- API Platform
 - Docker
 - CI / CD
-- Redux / Redux Toolkit
+- Redux / Redux Toolkit / EasyPeasy
+- Strapi
 - React JS
 - Typescript
 - Next JS
 - MongoDB
-- Tailwind CSS
+- Firebase
 - Gitlab
 - Github
 - Bash
 - MacOS / Linux (Ubuntu) / Windows / WSL
-
-🌱 I’m currently learning ...
---------------------------
-
-- Strapi
-- EasyPeasy
-- Firebase
-- API Platform
-- PHP Unit
 
 👯 You can contact me on ...
 -------------------------
