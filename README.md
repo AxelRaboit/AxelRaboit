@@ -26,7 +26,7 @@ I have another repository in Gitlab: https://gitlab.com/axel.raboit
 - AssetMapper
 - Bootstrap
 - Tailwind CSS
-- ESLint, Rector, PHPStan, PHPUnit
+- ESLint, Rector, PHPStan, Csfixer, TwigCsFixer, PHPUnit
 - API Platform
 - Docker
 - CI / CD
