@@ -1,12 +1,6 @@
 Hi there 👋
 ===========
 
-My Work
------------------------------------------------------
-![Stats du compte pro](https://github-readme-stats.vercel.app/api?username=axelr7x&show_icons=true&count_private=true&token=VOTRE_TOKEN)
-
------------------------------------------------------
-
 My PortFolio: https://www.axelraboit.fr/
 -----------------------------------------------------
 
