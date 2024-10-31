@@ -7,7 +7,9 @@ My PortFolio: https://www.axelraboit.fr/
 This repository is used to train myself about coding.
 -----------------------------------------------------
 
-I have another repository in Gitlab: https://gitlab.com/axel.raboit
+Others repositories
+- https://github.com/axelr7x
+- https://gitlab.com/axel.raboit
 
 🔭 I’m currently working with ...
 ------------------------------
