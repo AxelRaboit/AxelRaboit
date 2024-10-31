@@ -3,9 +3,8 @@ Hi there 👋
 
 My Work
 -----------------------------------------------------
-![Stats du compte pro](https://github-readme-stats.vercel.app/api?username=axelr7x&show_icons=true)
+![Stats du compte pro](https://github-readme-stats.vercel.app/api?username=axelr7x&show_icons=true&count_private=true&token=VOTRE_TOKEN)
 
-![Stats du compte pro](https://github-readme-stats.vercel.app/api?username=axelr7x&show_icons=true&theme=dark&hide=stars,prs)
 -----------------------------------------------------
 
 My PortFolio: https://www.axelraboit.fr/
