@@ -2,6 +2,12 @@ Hi there 👋
 ===========
 This repository is used to train myself about coding.
 
+👯 You can contact me on ...
+-------------------------
+
+- axel.raboit@gmail.com
+- https://www.linkedin.com/in/axel-raboit/
+
 My PortFolio: https://www.axelraboit.fr/
 
 Other repositories
@@ -41,9 +47,3 @@ Other repositories
 - Github
 - Bash
 - MacOS / Linux (Ubuntu) / Windows / WSL
-
-👯 You can contact me on ...
--------------------------
-
-- axel.raboit@gmail.com
-- https://www.linkedin.com/in/axel-raboit/
