@@ -14,7 +14,7 @@ This repository is used to train myself about coding.
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/axel.raboit)
 
 
-## 🔭 I’m currently working with ...
+## 🔭 Knowledge
 
 🖥️ Langages et Frameworks
 
