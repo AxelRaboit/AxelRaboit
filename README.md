@@ -61,6 +61,7 @@ This repository is used to train myself about coding.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0088CC?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)   
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![AssetMapper](https://img.shields.io/badge/AssetMapper-333?style=for-the-badge&logo=webpack&logoColor=white)
 ![API Platform](https://img.shields.io/badge/API%20Platform-0088CC?style=for-the-badge&logo=apiplatform&logoColor=white)
