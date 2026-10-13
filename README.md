@@ -7,6 +7,10 @@ This repository is used to train myself about coding.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axel.raboit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-raboit/)
 
+## 🔒 My projects
+
+My own projects, including **Aurora**, the CMS behind [app.axelraboit.fr](https://app.axelraboit.fr), live in private repositories: the contribution graph counts the activity, not the code. Recruiter, client or simply curious, you would like to read it? [Ask me for access](https://app.axelraboit.fr/en/page/contact-en) and I will invite you.
+
 ## 🔭 Knowledge
 
 🖥️ Langages et Frameworks
