@@ -9,7 +9,7 @@ This repository is used to train myself about coding.
 
 ## 🔒 My projects
 
-My own projects, including **Aurora**, the CMS behind [app.axelraboit.fr](https://app.axelraboit.fr), live in private repositories: the contribution graph counts the activity, not the code. Recruiter, client or simply curious, you would like to read it? [Ask me for access](https://app.axelraboit.fr/en/page/contact-en) and I will invite you.
+My own projects live in private repositories: the contribution graph counts the activity, not the code. Recruiter, client or simply curious, you would like to read it? [Ask me for access](https://app.axelraboit.fr/en/page/contact-en) and I will invite you.
 
 ## 🔭 Knowledge
 
